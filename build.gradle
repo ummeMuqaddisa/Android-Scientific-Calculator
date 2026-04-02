@@ -1,0 +1,11 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Use a stable, standard Gradle plugin version
+        classpath 'com.android.tools.build:gradle:8.8.2'
+    }
+}
+

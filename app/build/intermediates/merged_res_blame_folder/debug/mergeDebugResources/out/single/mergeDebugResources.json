@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\drawable_bg_btn_dark_num.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\drawable\\bg_btn_dark_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\drawable_bg_btn_orange.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\drawable\\bg_btn_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.scientificcalculator.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.scientificcalculator.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\drawable_bg_btn_light.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\drawable\\bg_btn_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\drawable_bg_btn_dark_sci.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\drawable\\bg_btn_dark_sci.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-debug-31:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.example.scientificcalculator.app-main-33:\\drawable\\ic_launcher.xml"
+    }
+]
