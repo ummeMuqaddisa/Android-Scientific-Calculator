@@ -1,5 +1,11 @@
 # Android Scientific Calculator
 
+## Demonstration Video
+
+<video src="Demonstration%20Edited%20version(1.7x).mp4" autoplay loop muted controls style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 ## About
 A feature-rich, dynamic Scientific Calculator built for Android using Java. Designed with a sleek, iOS-inspired user interface, this calculator goes beyond basic arithmetic by offering a comprehensive suite of advanced mathematical functions. It features persistent memory operations using Android's `SharedPreferences` and robust equation evaluation through the `exp4j` library, ensuring accurate adherence to the order of operations and complex inputs.
 
